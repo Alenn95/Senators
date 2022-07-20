@@ -1,0 +1,25 @@
+html{
+   filter: invert(1);
+}
+
+#logo {
+
+   width: 3rem;
+   height: 2.8rem; 
+}
+
+#imgHome {
+   margin-top: 2rem;
+   margin-left: 7rem;    
+   width: 20rem;
+   height: 20rem; 
+}
+
+.selector{
+   width: 25rem;
+   margin-left: 70vh;
+}
+
+.checkboxes{
+   margin-left: 75vh;  
+}
